@@ -9,7 +9,9 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 
 # 📊 Dataset
 Source : https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
+
 The data is available in 8 csv files:
+
     1.customers.csv
     2.sellers.csv
     3.order_items.csv
